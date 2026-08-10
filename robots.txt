@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-popolneniem-ot-100-ruble-03d65.github.io
+Sitemap: https://kazino-s-popolneniem-ot-100-ruble-03d65.github.io/sitemap.xml
